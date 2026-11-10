@@ -1,4 +1,4 @@
-# ReviewFlask
+# Review Flask
 
 A small Flask web app that scrapes customer reviews for a product from [Flipkart](https://www.flipkart.com) and shows them in a table.
 
