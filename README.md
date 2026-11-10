@@ -32,7 +32,7 @@ Then open <http://127.0.0.1:5000> in your browser.
 
 ## Notes
 
-- The scraper depends on Flipkart's page layout and CSS class names (as of 2022). Flipkart changes these from time to time, so if no reviews come back, the class names in `app.py` need updating.
+- The scraper depends on Flipkart's page layout and CSS class names. Flipkart changes these from time to time, so if no reviews come back, the class names in `app.py` need updating.
 - Reviews whose comment can't be read are shown as "No Comment" instead of stopping the whole page.
 
 ## Technologies
